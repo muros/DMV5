@@ -1,0 +1,11 @@
+1. Ko delaš convert iz d48 nazaj v d69, poišči max in min koordinate in jih primerjaj, če so te tiste kjer se začne TTN5
+   za dani list. Tako preveriš, da je transformacija (z zaokroževanjem pravilna).
+   OK.
+
+2. Ko ad.1. potrdiš. Vzami koordinate v metrih kot točke na sliki. Min in max uporabi za iteriranje čez vse elemente in prazne zapolni
+   z vrednostjo, ki predstavlja unknown (gotovo neko negativno število, tako kot v dted).
+
+3. Ko narediš sliko - verjetno geotiff ali vsaj jpeg, mu moraš dodati še meta podatke, ki povejo kateri crs uporabljaš (D69) in koordinate
+   posameznega lista. To bi moralo biti narejno v imageio-ext za .xyz format.
+   
+4. Ko imaš image-io ext, pa bi to načeloma lahko že uporabil v geoserverju in izgradil image mosaic za elevatione.

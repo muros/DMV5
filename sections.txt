@@ -1,0 +1,104 @@
+Section names and divisions to Basic Topographic Maps 1:5 000 and
+1 : 10 000 (TTN5 and TTN10)
+
+Coordinates for lower left corner of the section:
+section wide   = 22 500 m
+section height = 15 000 m
+
+Sheet dimension of TTN5 and TTN10:
+Scale         wide       height
+1 : 5000      2 250 m    3 000 m
+1 : 10 000    4 500 m    6 000 m
+
+
+       NAME                ROW    COL      Y_SECT  X_SECT  SHORTNAME
+  1    TRDKOVA             30      J       567500  190000  TRDKOVA
+  2    BUDINCI             30      K       590000  190000  BUDINCI
+  3    KONJIČE            29      I       545000  175000  KONJISCE
+  4    MAČKOVCI            29      J       567500  175000  MACKOVCI
+  5    ALOVCI             29      K       590000  175000  SALOVCI
+  6    LIBELIČE            28      F       477500  160000  LIBELICE
+  7    DRAVOGRAD           28      G       500000  160000  DRAVOGRAD
+  8    KOZJAK              28      H       522500  160000  KOZJAK
+  9    ENTILJ             28      I       545000  160000  SENTILJ
+  10   RADGONA             28      J       567500  160000  RADGONA
+  11   TURNIČE            28      K       590000  160000  TURNISCE
+  12   LENDAVSKE GORICE    28      L       612500  160000  LEND. GORICE
+  13   KRANJSKA GORA       27      B       387500  145000  KR. GORA
+  14   MOJSTRANA           27      C       410000  145000  MOJSTRANA
+  15   BOROVLJE            27      D       432500  145000  BOROVLJE
+  16   OLEVA              27      E       455000  145000  OLSEVA
+  17   RAVNE NA KOROKEM   27      F       477500  145000  RAVNE NA KOR
+  18   SLOVENJ GRADEC      27      G       500000  145000  SL. GRADEC
+  19   RUE                27      H       522500  145000  RUSE
+  20   MARIBOR             27      I       545000  145000  MARIBOR
+  21   BORECI              27      J       567500  145000  BORECI
+  22   LJUTOMER            27      K       590000  145000  LJUTOMER
+  23   PEKLENICA           27      L       612500  145000  PEKLENICA
+  24   AGA                26      A       365000  130000  ZAGA
+  25   BOVEC               26      B       387500  130000  BOVEC
+  26   BLED                26      C       410000  130000  BLED
+  27   RADOVLJICA          26      D       432500  130000  RADOVLJICA
+  28   JEZERSKO            26      E       455000  130000  JEZERSKO
+  29   MOZIRJE             26      F       477500  130000  MOZIRJE
+  30   OTANJ             26      G       500000  130000  SOSTANJ
+  31   SLOVENSKA BISTRICA  26      H       522500  130000  SL. BISTRICA
+  32   PTUJ                26      I       545000  130000  PTUJ
+  33   ORMO               26      J       567500  130000  ORMOZ
+  34   VARADIN            26      K       590000  130000  VARAZDIN
+  35   BREGINJ             25      A       365000  115000  BREGINJ
+  36   TOLMIN              25      B       387500  115000  TOLMIN
+  37   BOHINJSKA BISTRICA  25      C       410000  115000  BOH.BISTRICA
+  38   KRANJ               25      D       432500  115000  KRANJ
+  39   KAMNIK              25      E       455000  115000  KAMNIK
+  40   GORNJI GRAD         25      F       477500  115000  GORNJI GRAD
+  41   CELJE               25      G       500000  115000  CELJE
+  42   ENTJUR PRI CELJU   25      H       522500  115000  SENTJUR
+  43   ROGATEC             25      I       545000  115000  ROGATEC
+  44   IVANEC              25      J       567500  115000  IVANEC
+  45   KOBANA             24      A       365000  100000  KOZBANA
+  46   KANAL               24      B       387500  100000  KANAL
+  47   CERKNO              24      C       410000  100000  CERKNO
+  48   KOFJA LOKA         24      D       432500  100000  SKOFJA LOKA
+  49   LJUBLJANA - S       24      E       455000  100000  LJUBLJANA -S
+  50   LITIJA              24      F       477500  100000  LITIJA
+  51   TRBOVLJE            24      G       500000  100000  TRBOVLJE
+  52   KOZJE               24      H       522500  100000  KOZJE
+  53   KLANJEC             24      I       545000  100000  KLANJEC
+  54   DOBROVO             23      A       365000  85000   DOBROVO
+  55   NOVA GORICA         23      B       387500  85000   NOVA GORICA
+  56   IDRIJA              23      C       410000  85000   IDRIJA
+  57   VRHNIKA             23      D       432500  85000   VRHNIKA
+  58   LJUBLJANA - J       23      E       455000  85000   LJUBLJANA -J
+  59   VINJA GORA         23      F       477500  85000   VISNJA GORA
+  60   MOKRONOG            23      G       500000  85000   MOKRONOG
+  61   KRKO               23      H       522500  85000   KRSKO
+  62   VELIKO TRGOVIČE    23      I       545000  85000   V. TRGOVISCE
+  63   KOMEN               22      B       387500  70000   KOMEN
+  64   AJDOVČINA          22      C       410000  70000   AJDOVSCINA
+  65   POSTOJNA            22      D       432500  70000   POSTOJNA
+  66   VELIKE LAČE        22      E       455000  70000   VELIKE LASCE
+  67   UEMBERK           22      F       477500  70000   ZUZEMBERK
+  68   NOVO MESTO          22      G       500000  70000   NOVO MESTO
+  69   KOSTANJEVICA        22      H       522500  70000   KOSTANJEVICA
+  70   SAMOBOR             22      I       545000  70000   SAMOBOR
+  71   DUTOVLJE            21      B       387500  55000   DUTOVLJE
+  72   SEANA              21      C       410000  55000   SEZANA
+  73   PIVKA               21      D       432500  55000   PIVKA
+  74   SODRAICA           21      E       455000  55000   SODRAZICA
+  75   RIBNICA             21      F       477500  55000   RIBNICA
+  76   SEMIČ               21      G       500000  55000   SEMIC
+  77   METLIKA             21      H       522500  55000   METLIKA
+  78   KOPER               20      B       387500  40000   KOPER
+  79   KOZINA              20      C       410000  40000   KOZINA
+  80   ILIRSKA BISTRICA    20      D       432500  40000   IL. BISTRICA
+  81   ČABAR               20      E       455000  40000   CABAR
+  82   KOČEVJE             20      F       477500  40000   KOCEVJE
+  83   ČRNOMELJ            20      G       500000  40000   CRNOMELJ
+  84   OZALJ               20      H       522500  40000   OZALJ
+  85   BUJE                19      B       387500  25000   BUJE
+  86   BUZET               19      C       410000  25000   BUZET
+  87   KASTAV              19      D       432500  25000   KASTAV
+  88   DELNICE             19      F       477500  25000   DELNICE
+  89   VRBOVSKO            19      G       500000  25000   VRBOVSKO
+  90   KARLOVAC            19      H       522500  25000   KARLOVAC
